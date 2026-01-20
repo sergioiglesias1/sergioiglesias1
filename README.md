@@ -13,6 +13,6 @@ This is a fresh profile where I’ll be sharing my projects and experiments, all
 
 ### Tech Stack
 - Languages: Python, R
-- Databases: MySQL, MongoDB
+- Databases: PostgreSQL, MongoDB
 - Libraries: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, TensorFlow (Keras), SciPy
 - Tools: Git, Jupyter Notebook, Power BI, gretl
