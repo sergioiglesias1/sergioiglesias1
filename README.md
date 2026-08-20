@@ -53,7 +53,7 @@ Economist from the quantitative side becoming data scientist, working where econ
 
 **[yield-curve-forecasting](https://github.com/sergioiglesias1/yield-curve-forecasting)**, Nelson-Siegel curve fitting on FRED and ECB data, with VAR/LSTM forecasts and a recession classifier validated through walk-forward backtesting. *(collaborative, in progress)*
 
-### 📊 Prediction & Segmentation
+### 📊 Statistical Learning
 
 **[bank-campaign-predictor](https://github.com/sergioiglesias1/bank-campaign-predictor)**, a term-deposit subscription model tuned for recall over raw accuracy: **AUC 0.921**, **90.7% recall** on subscribers.
 
