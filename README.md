@@ -48,16 +48,15 @@ Economist from the quantitative side becoming data scientist, working where econ
 ## 🚀 Featured Projects
 
 ### 💳 Credit Risk & Finance
+- **[credit-risk-modeling](https://github.com/sergioiglesias1/credit-risk-modeling)**, an end-to-end expected loss pipeline (PD × LGD × EAD) on a real loan portfolio. **95% recall** on defaulters, **4.49%** estimated portfolio loss, deployed as a Streamlit scoring app.
+- **[yield-curve-forecasting](https://github.com/sergioiglesias1/yield-curve-forecasting)**, Nelson-Siegel curve fitting on FRED and ECB data, with VAR/LSTM forecasts and a recession classifier validated through walk-forward backtesting. *(collaborative, in progress)*
 
-**[credit-risk-modeling](https://github.com/sergioiglesias1/credit-risk-modeling)**, an end-to-end expected loss pipeline (PD × LGD × EAD) on a real loan portfolio. **95% recall** on defaulters, **4.49%** estimated portfolio loss, deployed as a Streamlit scoring app.
-
-**[yield-curve-forecasting](https://github.com/sergioiglesias1/yield-curve-forecasting)**, Nelson-Siegel curve fitting on FRED and ECB data, with VAR/LSTM forecasts and a recession classifier validated through walk-forward backtesting. *(collaborative, in progress)*
+### 📈 Macroeconometrics
+- **[gdp-convergence-analysis](https://github.com/sergioiglesias1/gdp-convergence-analysis)**, cross-country test of β-convergence in real GDP per capita across **153 economies** (World Bank, 2004–2024). A result of **β = −0.354** (p < 0.001) implies a convergence speed of just **0.37%/yr**, an order of magnitude below the canonical 2% benchmark. σ-convergence confirms the distribution barely narrows. Conditional and convergence-club specifications, HC1 errors and influence diagnostics.
 
 ### 📊 Statistical Learning
-
-**[bank-campaign-predictor](https://github.com/sergioiglesias1/bank-campaign-predictor)**, a term-deposit subscription model tuned for recall over raw accuracy: **AUC 0.921**, **90.7% recall** on subscribers.
-
-**[income-segmentation-r](https://github.com/sergioiglesias1/income-segmentation-r)**, PCA + K-Means on World Bank indicators for 169 economies. Three components explain **88.67%** of variance and recover the official income classification, validated with Silhouette and Davies-Bouldin.
+- **[bank-campaign-predictor](https://github.com/sergioiglesias1/bank-campaign-predictor)**, a term-deposit subscription model tuned for recall over raw accuracy: **AUC 0.921**, **90.7% recall** on subscribers.
+- **[income-segmentation-r](https://github.com/sergioiglesias1/income-segmentation-r)**, PCA + K-Means on World Bank indicators for 169 economies. Three components explain **88.67%** of variance and recover the official income classification, validated with Silhouette and Davies-Bouldin.
 
 ### 📐 Econometrics
 
