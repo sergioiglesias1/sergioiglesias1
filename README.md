@@ -11,6 +11,7 @@ Economist turned data scientist, working where econometrics meets machine learni
 🎓 **BSc Economics**, Universidad de Cantabria<br>
 🌍 Erasmus+ at Vrije Universiteit Brussel (Solvay)<br>
 📈 **MSc in Data Science** (UC-UIMP), 2026-2027 cohort, coordinated by IFCA (Institute of Physics of Cantabria), a centre of the CSIC (Spanish National Research Council)
+
 ---
 
 ## 🛠️ Tech Stack
