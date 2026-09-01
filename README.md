@@ -4,14 +4,13 @@
 <b>Data Science | Machine Learning, Risk Modelling & Econometrics | BSc Economics</b>
 </p>
 
-Economist from the quantitative side becoming data scientist, working where econometrics meets machine learning: predictive modelling, inference and segmentation on tabular data. I care more about turning model output into decisions than about squeezing the last decimal of accuracy.
+Economist turned data scientist, working where econometrics meets machine learning: predictive modelling, inference and segmentation on tabular data. I build models to support a decision, and document the reasoning as carefully as the result.
 
 📍 Based in Santander, Spain<br>
 🏢 **Data Science Intern** at Laborare SLP (legaltech startup)<br>
 🎓 **BSc Economics**, Universidad de Cantabria<br>
 🌍 Erasmus+ at Vrije Universiteit Brussel (Solvay)<br>
-📈 Incoming student, **MSc in Data Science** (UC-UIMP, with CSIC), 2026-2027 cohort
-
+📈 **MSc in Data Science** (UC-UIMP), 2026-2027 cohort, coordinated by IFCA (Institute of Physics of Cantabria), a centre of the CSIC (Spanish National Research Council)
 ---
 
 ## 🛠️ Tech Stack
