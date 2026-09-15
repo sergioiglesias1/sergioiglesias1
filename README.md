@@ -1,16 +1,15 @@
 <h1 align="center">Hi, I'm Sergio Iglesias</h1>
 
 <p align="center">
-<b>Data Science | Machine Learning, Risk Modelling & Econometrics | BSc Economics</b>
+<b>MSc Data Science Student | Machine Learning, Risk Modelling & Econometrics | BSc Economics</b>
 </p>
 
 Economist turned data scientist, working where econometrics meets machine learning: predictive modelling, inference and segmentation on tabular data. I build models to support a decision, and document the reasoning as carefully as the result.
 
 📍 Based in Santander, Spain<br>
-🏢 **Data Science Intern** at Laborare SLP (legaltech startup)<br>
+📈 **MSc in Data Science** (UC-UIMP, IFCA-CSIC), 2026-2027<br>
 🎓 **BSc Economics**, Universidad de Cantabria<br>
-🌍 Erasmus+ at Vrije Universiteit Brussel (Solvay)<br>
-📈 **MSc in Data Science** (UC-UIMP), 2026-2027 cohort, coordinated by IFCA (Institute of Physics of Cantabria), a centre of the CSIC (Spanish National Research Council)
+🌍 Erasmus+ at Vrije Universiteit Brussel (Solvay)
 
 ---
 
@@ -66,9 +65,14 @@ Economist turned data scientist, working where econometrics meets machine learni
 
 ## 📚 Background
 
-**Data Science Intern** | Laborare SLP | June 2026 - present
+**MSc in Data Science** | UC-UIMP (IFCA-CSIC) | 2026 - 2027
 
-- Analysed +100 survey responses by building an end-to-end Python pipeline: cleaning, Welch t-tests, Wilson intervals, willingness-to-pay curves
+- Relevant Classes: Machine Learning I & II, Statistics for Data Science, Information Systems, Data Mining
+- In collaboration with the Spanish National Research Council (CSIC) and the Institute of Physics of Cantabria (IFCA)
+
+**Data Science Intern** | Laborare SLP | July - October 2026
+
+- Analysed 100+ survey responses by building an end-to-end Python pipeline: cleaning, Welch t-tests, Wilson intervals, willingness-to-pay curves
 - Deployed the survey landing page to production as the MVP's data-collection layer
 - Instrumented the validation funnel: 36 KPIs with formulas, sources and owners, UTM schema, survey variable design
 
