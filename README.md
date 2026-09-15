@@ -59,7 +59,7 @@ Economist turned data scientist, working where econometrics meets machine learni
 
 ### 📐 Econometrics
 
-**Bachelor's Thesis, "Technological Innovation in Spanish Manufacturing" (R)**. Balanced panel of 1,355 firms and 10,840 observations from PITEC (2008–2016). Fixed and random effects under one-way and two-way specifications, Hausman tests for estimator selection, lagged regressors and two dependent variables as a robustness check. Grade: **8.9/10**.
+**Bachelor's Thesis, "Technological Innovation in Spanish Companies: A Panel Data Approach" (R)**. Balanced panel of 1,355 firms and 10,840 observations from PITEC (2008–2016). Fixed and random effects under one-way and two-way specifications, Hausman tests for estimator selection, lagged regressors and two dependent variables as a robustness check. Grade: **8.9/10**.
 
 ---
 
