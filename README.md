@@ -17,8 +17,7 @@ Economist turned data scientist, working where econometrics meets machine learni
 
 **Machine Learning & Modelling**<br>
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=flat)
 ![statsmodels](https://img.shields.io/badge/statsmodels-4B8BBE?style=flat)
 
@@ -38,9 +37,9 @@ Economist turned data scientist, working where econometrics meets machine learni
 
 **Tools**<br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat&logo=gnubash&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
-![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
 ---
 
@@ -48,7 +47,7 @@ Economist turned data scientist, working where econometrics meets machine learni
 
 ### 💳 Credit Risk & Finance
 - **[credit-risk-modeling](https://github.com/sergioiglesias1/credit-risk-modeling)**, an end-to-end expected loss pipeline (PD × LGD × EAD) on a real loan portfolio. **95% recall** on defaulters, **4.49%** estimated portfolio loss, deployed as a Streamlit scoring app.
-- **[yield-curve-forecasting](https://github.com/sergioiglesias1/yield-curve-forecasting)**, Nelson-Siegel curve fitting on FRED and ECB data, with VAR/LSTM forecasts and a recession classifier validated through walk-forward backtesting. *(collaborative, in progress)*
+- **[yield-curve-forecasting](https://github.com/sergioiglesias1/yield-curve-forecasting)**, collaborative project predicting U.S. recessions from the yield curve and macro data. ML models clearly beat the classic probit benchmark (**AUC 0.83**) under walk-forward validation, though their probabilities are not well calibrated.
 
 ### 📈 Macroeconometrics
 - **[gdp-convergence-analysis](https://github.com/sergioiglesias1/gdp-convergence-analysis)**, cross-country test of β-convergence in real GDP per capita across **153 economies** (World Bank, 2004–2024). A result of **β = −0.354** (p < 0.001) implies a convergence speed of just **0.37%/yr**, an order of magnitude below the canonical 2% benchmark. σ-convergence confirms the distribution barely narrows. Conditional and convergence-club specifications, HC1 errors and influence diagnostics.
