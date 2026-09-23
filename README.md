@@ -9,7 +9,7 @@ Economist turned data scientist, working where econometrics meets machine learni
 📍 Based in Santander, Spain<br>
 📈 **MSc in Data Science** (UC-UIMP, IFCA-CSIC), 2026-2027<br>
 🎓 **BSc Economics**, Universidad de Cantabria<br>
-🌍 Erasmus+ at Vrije Universiteit Brussel (Solvay)
+🌍 Erasmus+ at Vrije Universiteit Brussel (Solvay Brussels School)
 
 ---
 
@@ -17,9 +17,9 @@ Economist turned data scientist, working where econometrics meets machine learni
 
 **Machine Learning & Modelling**<br>
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=flat)
 ![statsmodels](https://img.shields.io/badge/statsmodels-4B8BBE?style=flat)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 
 **Data & Analysis**<br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
@@ -32,7 +32,6 @@ Economist turned data scientist, working where econometrics meets machine learni
 **Visualisation & Delivery**<br>
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 **Tools**<br>
@@ -66,7 +65,7 @@ Economist turned data scientist, working where econometrics meets machine learni
 
 **MSc in Data Science** | UC-UIMP (IFCA-CSIC) | 2026 - 2027
 
-- Relevant Classes: Machine Learning I & II, Statistics for Data Science, Information Systems, Data Mining
+- Indended Coursework: Machine Learning I & II, Statistics for Data Science, Information Systems, Data Mining
 - In collaboration with the Spanish National Research Council (CSIC) and the Institute of Physics of Cantabria (IFCA)
 
 **Data Science Intern** | Laborare SLP | July - October 2026
@@ -77,13 +76,13 @@ Economist turned data scientist, working where econometrics meets machine learni
 
 **BSc Economics** | Universidad de Cantabria | 2021 - 2026
 
-- Relevant Classes: Econometrics, Statistics, Microeconomics, Macroeconomics, Multivariate Data Analysis
+- Relevant Coursework: Econometrics, Statistics, Microeconomics, Macroeconomics, Multivariate Data Analysis
 
 **Erasmus+ Exchange** | Vrije Universiteit Brussel, Solvay Business School | 2024 - 2025
 
-- Relevant Classes: IT Modelling, Programming, European Economics, Operations Management
+- Relevant Coursework: IT Modelling, Programming, European Economics, Operations Management
 
-**Cantabria Tech Talent** | Data Analysis programme (UNIR) | 2026
+**Cantabria Tech Talent** | Data Analysis programme (UNIR) | March - October 2026
 
 - Awarded one of 68 places out of 768 applicants
 
@@ -111,5 +110,3 @@ Economist turned data scientist, working where econometrics meets machine learni
 - 📧 **Email:** sergioiglesiaslopez03@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/sergioiglesiaslopez](https://www.linkedin.com/in/sergio-iglesias-lopez-179aa323b/)
 - 🐙 **GitHub:** [@sergioiglesias1](https://github.com/sergioiglesias1)
-
-<sub>All projects are built from scratch and fully documented.</sub>
