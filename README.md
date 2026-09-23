@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Sergio Iglesias</h1>
 
 <p align="center">
-<b>MSc Data Science Student | Machine Learning, Risk Modelling & Econometrics | BSc Economics</b>
+<b>MSc Data Science Student | Econometrics, Machine Learning & Causal Inference | BSc Economics</b>
 </p>
 
-Economist turned data scientist, working where econometrics meets machine learning: predictive modelling, inference and segmentation on tabular data. I build models to support a decision, and document the reasoning as carefully as the result.
+Economist and data scientist, working where econometrics meets machine learning: predictive modelling, inference and segmentation on tabular data. I build models to support a decision, and document the reasoning as carefully as the result.
 
 📍 Based in Santander, Spain<br>
 📈 **MSc in Data Science** (UC-UIMP, IFCA-CSIC), 2026-2027<br>
