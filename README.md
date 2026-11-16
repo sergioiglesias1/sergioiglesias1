@@ -1,91 +1,90 @@
 <h1 align="center">Hi, I'm Sergio 👋</h1>
 
 <p align="center">
-<b>MSc Data Science Student | Econometrics, Machine Learning & Time Series | BSc Economics</b>
+<b>Data Science MSc Student | Econometrics & Machine Learning | BSc Economics</b>
 </p>
 
-Economist and data scientist, working where econometrics meets machine learning: predictive modelling, inference and segmentation on tabular data. I build models to support a decision, and document the reasoning as carefully as the result.
+Economist undertaking an MSc in Data Science, focused on quantitative finance and risk. My work centres on tabular data and time series, on problems where uncertainty matters as much as prediction, combining econometrics with machine learning.
 
-🎓 MSc in Data Science (UniCan-UIMP, with IFCA-CSIC), 2026-2027<br>
+🎓 MSc in Data Science (UC-UIMP, with IFCA-CSIC), 2026-2027<br>
 📜 BSc Economics, Universidad de Cantabria<br>
-🌍 Erasmus+ at Vrije Universiteit Brussel (Solvay Brussels School)
+🌍 Erasmus+ at Vrije Universiteit Brussel (Solvay Business School)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
-**Machine Learning & Modelling**<br>
+**Modelling**<br>
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=flat)
 ![statsmodels](https://img.shields.io/badge/statsmodels-4B8BBE?style=flat)
+![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=flat)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=white)
 
-**Data & Analysis**<br>
+**Data**<br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-
-**Visualisation & Delivery**<br>
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 **Tools**<br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=jupyter&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat&logo=gnubash&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=jupyter&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 
 ---
 
 ## 📂 Featured Projects
 
 ### 📈 Macroeconometrics & Forecasting
-- **[gdp-convergence-analysis](https://github.com/sergioiglesias1/gdp-convergence-analysis)**, cross-country test of β-convergence in real GDP per capita across **153 economies** (World Bank, 2004–2024). Convergence runs at just **0.37%/yr**, an order of magnitude below the canonical 2% benchmark, and σ-convergence confirms the distribution barely narrows. Conditional and convergence-club specifications, HC1 errors and influence diagnostics.
-- **[yield-curve-forecasting](https://github.com/sergioiglesias1/yield-curve-forecasting)**, collaborative project predicting U.S. recessions 3–12 months ahead from the yield curve and macro data. Under walk-forward validation, a simple logistic regression reaches AUC 0.83 at 3 months, beating the classic yield-curve model and matching an LSTM.
+- **[yield-curve-forecasting](https://github.com/sergioiglesias1/yield-curve-forecasting)**, predicting U.S. recessions 3–12 months ahead from 22 FRED series since 1976 (collaborative). Under walk-forward validation, a simple logistic regression reaches **AUC 0.83** at 3 months, beating the classic yield-curve model and gradient boosting and matching an LSTM.
+- **[gdp-convergence-analysis](https://github.com/sergioiglesias1/gdp-convergence-analysis)**, β-convergence in real GDP per capita across **153 economies** (World Bank, 2004–2024). Convergence is significant but weak, at **0.37%/yr**, an order of magnitude below the canonical 2%, and σ-convergence confirms the distribution barely narrows. Conditional and convergence-club specifications, HC1 errors, RESET and Breusch-Pagan checks.
 
 ### 📊 Statistical Learning
 - **[bank-campaign-predictor](https://github.com/sergioiglesias1/bank-campaign-predictor)**, a term-deposit subscription model tuned for recall over raw accuracy: **AUC 0.921**, **90.7% recall** on subscribers.
-- **[income-segmentation-r](https://github.com/sergioiglesias1/income-segmentation-r)**, PCA + K-Means on World Bank indicators for 169 economies. Three components explain **88.67%** of variance and recover the official income classification, validated with Silhouette and Davies-Bouldin.
+- **[income-segmentation-r](https://github.com/sergioiglesias1/income-segmentation-r)**, PCA + K-Means on World Bank indicators for 169 economies, trained without income labels. Three components explain **88.7%** of variance (KMO 0.79), and the clusters separate high and low-income economies cleanly when checked against the World Bank groups (NMI 0.45, silhouette 0.35).
 
 ### 📐 Econometrics
-
-**Bachelor's Thesis, "Technological Innovation in Spanish Companies: A Panel Data Approach" (R)**. Balanced panel of 1,355 firms and 10,840 observations from PITEC (2008–2016). Fixed and random effects under one-way and two-way specifications, Hausman tests for estimator selection, lagged regressors and two dependent variables as a robustness check. Grade: **8.9/10**.
+**Bachelor's Thesis, "Technological Innovation in Spanish Companies: A Panel Data Approach" (R)**. Balanced panel of 1,355 firms and 10,840 observations from PITEC (2008–2016). Fixed and random effects, one-way and two-way, with Hausman tests, lagged regressors and two dependent variables as a robustness check. Grade: **8.9/10**.
 
 ---
 
 ## 📚 Background
 
 **MSc in Data Science** | UC-UIMP (IFCA-CSIC) | 2026 - 2027
-- Machine Learning I & II, Statistics for Data Science, Data Mining
+- Thesis (in progress): minimum-CVaR portfolio optimisation, comparing Gaussian processes with volatility models such as GARCH and HAR
+- Machine Learning I & II, Deep Learning, AI Agents, Statistics for Data Science, Data Mining
 
-**Data Science Intern** | Laborare SLP | July - October 2026
-- Analysed 100+ survey responses with an end-to-end Python pipeline: cleaning, Welch t-tests, Wilson intervals, willingness-to-pay curves
-- Instrumented the validation funnel: 36 KPIs with formulas, sources and owners, UTM schema, survey variable design
+**Data Science Intern** | Laborare (Legal Tech Startup) | July - October 2026
+- Automated a public-sector union's inquiry workflow with n8n and Resend, from web form to case ID and email alerts
+- Set MVP pricing from survey data in Python, using Welch t-tests, Wilson intervals and willingness-to-pay curves
+- Built and deployed a landing page for a 100+ service catalogue, with a 36-KPI tracking plan and UTM schema
 - Selected through Cantabria Tech Talent (UNIR), one of 68 places out of 768 applicants
 
 **BSc Economics** | Universidad de Cantabria | 2021 - 2026
-- Erasmus+ at Vrije Universiteit Brussel, Solvay Business School (2024 - 2025)
+- Thesis: "Technological Innovation in Spanish Companies: A Panel Data Approach". Grade: 8.9/10
 
-**Certifications:** Deep Learning & Machine Learning Specializations (DeepLearning.AI), Financial Engineering and Risk Management (Columbia, Coursera)
+**Erasmus+ Exchange** | Vrije Universiteit Brussel, Solvay Business School | 2024 - 2025
+- Operations Management, Demand Forecasting, IT Modeling and Economics
 
 ---
 
 ## 🔍 Areas of Interest
 
 - Machine Learning
-- Credit and model risk
-- Time series forecasting (ARIMA, VAR, LSTM)
-- Bayesian methods
+- Quantitative Finance
+- Risk Modelling
+- Time Series Forecasting
+- Bayesian Methods
 - Econometrics
 
 ---
-
 ## 📫 Let's Connect
 
 - 📧 **Email:** sergioiglesiaslopez03@gmail.com
-- 💼 **LinkedIn:** [sergio-iglesias-lopez](https://www.linkedin.com/in/sergio-iglesias-lopez-179aa323b/)
+- 💼 **LinkedIn:** [sergioiglesiaslopez](https://www.linkedin.com/in/sergio-iglesias-lopez-179aa323b/)
 - 🐙 **GitHub:** [@sergioiglesias1](https://github.com/sergioiglesias1)
